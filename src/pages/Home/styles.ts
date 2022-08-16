@@ -31,6 +31,7 @@ export const BaseCountdownButton = styled.button`
 
     cursor: pointer;
     color: ${props => props.theme['gray-100']};
+    transition: all ease 0.2s;
 
     &:disabled {
         opacity: 0.7;
