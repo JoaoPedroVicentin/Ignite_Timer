@@ -42,6 +42,6 @@ export function History() {
           </tbody>
         </table>
       </HistoryList>
-    </HistoryContainer>
+    </HistoryContainer> 
   )
 }
