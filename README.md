@@ -34,7 +34,7 @@
 ```bash
 
 #Clone este repositório
-$ git clone https://github.com/JoaoPedroVicentin/Ignite_Timer.git
+$ git clone https://github.com/JoaoPedroVicentin/ignite-timer.git
 
 #Acesse a pasta do projeto
 $ cd Ignite_Timer
